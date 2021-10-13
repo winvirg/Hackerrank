@@ -1,4 +1,6 @@
 # Hackerrank
-My Hackerrank solutions
-C++             
-Java            
+<h1>My Hackerrank solutions</h1>
+<em>
+    C++             
+    Java            
+</em>
