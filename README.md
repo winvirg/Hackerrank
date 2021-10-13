@@ -1,2 +1,4 @@
 # Hackerrank
-Hackerrank solutions
+My Hackerrank solutions
+C++             
+Java            
